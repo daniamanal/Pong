@@ -1,0 +1,1 @@
+WElcome to the OG game of Pong! 2 users can simultaneously play this game. users will be provided with 2 paddles to move up and down in the interface to catch a randomly jumping ball. Users will also be able to view current and highscores.
